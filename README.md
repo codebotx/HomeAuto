@@ -59,6 +59,6 @@ References:
   Attached the json files for the working of Node Red and deployment of dashboard.
   
   
-  #//LSTM neural networks and WSSD algorithms are being used as ML models to continue the project to learn behavioral patterns of a user to predict the electricity bills. 
+  //LSTM neural networks and WSSD algorithms are being used as ML models to continue the project to learn behavioral patterns of a user to predict the electricity bills. 
 
 
